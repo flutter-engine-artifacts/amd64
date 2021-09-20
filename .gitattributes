@@ -1,0 +1,2 @@
+debug/libflutter_engine.so filter=lfs diff=lfs merge=lfs -text
+release/libflutter_engine.so filter=lfs diff=lfs merge=lfs -text
